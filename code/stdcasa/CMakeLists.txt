@@ -75,4 +75,4 @@ install (FILES
 	DESTINATION include/casacode/stdcasa/thread
 	)
 
-casa_add_google_test( MODULES stdcasa SOURCES test/tVersionInfo.cc )
+#casa_add_google_test( MODULES stdcasa SOURCES test/tVersionInfo.cc )
